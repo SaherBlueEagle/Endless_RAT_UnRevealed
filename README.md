@@ -5,7 +5,6 @@
 # Just Run : the jar file
 # 💿 📌 PROGRAM UPDATED / NOW it can SUPPORT Android , Version 1.2
 # endless Rat can access shared folders in victim lan , scanning and access mssql servers in victim lan  ('according to victim accessibility') or if you got config files from one of shared servers there 
-# 📌 Kindly keep in touch for the new version
 
 # 💿 BlueEagle Endless RAT V 1.2 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
